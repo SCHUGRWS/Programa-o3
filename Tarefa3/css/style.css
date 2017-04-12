@@ -1,1 +1,8 @@
-TESTE
+.block{
+    background-color: darkgray;
+    padding-top: 10px;
+}
+
+.blockContainer{
+    margin-bottom: 10px;
+}
